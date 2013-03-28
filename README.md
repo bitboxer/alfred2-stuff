@@ -1,4 +1,4 @@
-This is a Repository with all my [Alfred2](http://www.alfredapp.com) things.
+This is a repository with all my [Alfred2](http://www.alfredapp.com) things.
 
 * IP - get the current local and remote IP
 * Bitboxing Minimalist - My verison of the minimalist theme. 
