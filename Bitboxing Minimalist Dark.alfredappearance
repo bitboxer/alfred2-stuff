@@ -14,7 +14,7 @@
         "font" : "Helvetica",
         "color" : "#6B9DFFFF"
       },
-      "backgroundSelected" : "#F9F0BEFF",
+      "backgroundSelected" : "#D1C883FF",
       "text" : {
         "size" : 24,
         "colorSelected" : "#000000FF",
@@ -49,7 +49,7 @@
     },
     "credit" : "Bodo Tasche",
     "separator" : {
-      "color" : "#6F7071FF",
+      "color" : "#242425FF",
       "thickness" : 1
     },
     "scrollbar" : {
