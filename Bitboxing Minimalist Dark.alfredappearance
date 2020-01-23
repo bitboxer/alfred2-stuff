@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 6,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#000000FF",
+        "font" : "Helvetica",
+        "color" : "#9FA2A9FF"
+      },
+      "shortcut" : {
+        "size" : 24,
+        "colorSelected" : "#5E5E5EFF",
+        "font" : "Helvetica",
+        "color" : "#6B9DFFFF"
+      },
+      "backgroundSelected" : "#F9F0BEFF",
+      "text" : {
+        "size" : 24,
+        "colorSelected" : "#000000FF",
+        "font" : "Helvetica",
+        "color" : "#F0EEF1FF"
+      },
+      "iconPaddingHorizontal" : 5,
+      "paddingVertical" : 6,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 2,
+      "background" : "#000000FF",
+      "spacing" : 10,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#000000FF",
+        "font" : "Helvetica",
+        "color" : "#FDFCFFFF"
+      },
+      "backgroundSelected" : "#F3FAFBFF"
+    },
+    "window" : {
+      "color" : "#000000FF",
+      "paddingHorizontal" : 10,
+      "width" : 620,
+      "borderPadding" : 10,
+      "borderColor" : "#FFFFFF00",
+      "blur" : 0,
+      "roundness" : 12,
+      "paddingVertical" : 10
+    },
+    "credit" : "Bodo Tasche",
+    "separator" : {
+      "color" : "#6F7071FF",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#E5E5E500",
+      "thickness" : 2
+    },
+    "name" : "Bitboxing Minimalist Dark"
+  }
+}
