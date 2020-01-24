@@ -41,8 +41,8 @@
       "color" : "#000000FF",
       "paddingHorizontal" : 10,
       "width" : 620,
-      "borderPadding" : 10,
-      "borderColor" : "#FFFFFF00",
+      "borderPadding" : 2,
+      "borderColor" : "#F2F6FB52",
       "blur" : 0,
       "roundness" : 12,
       "paddingVertical" : 10
